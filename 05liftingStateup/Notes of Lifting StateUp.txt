@@ -1,0 +1,8 @@
+Lifting State Up
+ This Concept is used in React to send Data from Child Component to Parent Component 
+
+Method:
+Here We Need Few steps that i learn from React.doc which is
+
+1) we need A function in parent component and pass it as props to the child component with argument.
+2) in child component we recieve this function  props and  pass data as value as show in code file .
